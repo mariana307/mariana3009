@@ -1,0 +1,76 @@
+Skip to content
+Navigation Menu
+femascheti
+/
+criando-sua-aventura
+
+Type / to search
+Code
+Issues
+4
+Pull requests
+13
+Actions
+Projects
+Security
+Insights
+Files
+Go to file
+t
+img
+cenario-passo0.png
+cenario-passo11-cidade-perdida.png
+cenario-passo4-voltar-casa.png
+index.html
+script.js
+style.css
+Breadcrumbscriando-sua-aventura
+/style.css
+Latest commit
+femascheti
+femascheti
+projeto final
+9c65463
+ · 
+6 months ago
+History
+File metadata and controls
+
+Code
+
+Blame
+33 lines (28 loc) · 498 Bytes
+body {
+    background-color: #1D4221;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: #64A712;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
+
+main {
+    text-align: center;
+    max-width: 90%;
+}
+
+img {
+    max-width: 90%;
+}
+criando-sua-aventura/style.css at aula-07 · femascheti/criando-sua-aventura
